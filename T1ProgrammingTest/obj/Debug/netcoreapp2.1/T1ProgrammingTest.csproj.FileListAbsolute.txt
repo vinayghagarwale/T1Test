@@ -1,0 +1,11 @@
+D:\E Drive\Programming Test\T1ProgrammingTest\T1ProgrammingTest\bin\Debug\netcoreapp2.1\T1ProgrammingTest.deps.json
+D:\E Drive\Programming Test\T1ProgrammingTest\T1ProgrammingTest\bin\Debug\netcoreapp2.1\T1ProgrammingTest.runtimeconfig.json
+D:\E Drive\Programming Test\T1ProgrammingTest\T1ProgrammingTest\bin\Debug\netcoreapp2.1\T1ProgrammingTest.runtimeconfig.dev.json
+D:\E Drive\Programming Test\T1ProgrammingTest\T1ProgrammingTest\bin\Debug\netcoreapp2.1\T1ProgrammingTest.dll
+D:\E Drive\Programming Test\T1ProgrammingTest\T1ProgrammingTest\bin\Debug\netcoreapp2.1\T1ProgrammingTest.pdb
+D:\E Drive\Programming Test\T1ProgrammingTest\T1ProgrammingTest\obj\Debug\netcoreapp2.1\T1ProgrammingTest.csprojAssemblyReference.cache
+D:\E Drive\Programming Test\T1ProgrammingTest\T1ProgrammingTest\obj\Debug\netcoreapp2.1\T1ProgrammingTest.csproj.CoreCompileInputs.cache
+D:\E Drive\Programming Test\T1ProgrammingTest\T1ProgrammingTest\obj\Debug\netcoreapp2.1\T1ProgrammingTest.AssemblyInfoInputs.cache
+D:\E Drive\Programming Test\T1ProgrammingTest\T1ProgrammingTest\obj\Debug\netcoreapp2.1\T1ProgrammingTest.AssemblyInfo.cs
+D:\E Drive\Programming Test\T1ProgrammingTest\T1ProgrammingTest\obj\Debug\netcoreapp2.1\T1ProgrammingTest.dll
+D:\E Drive\Programming Test\T1ProgrammingTest\T1ProgrammingTest\obj\Debug\netcoreapp2.1\T1ProgrammingTest.pdb
